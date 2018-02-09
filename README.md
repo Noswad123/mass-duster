@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap - Coming Soon](https://startbootstrap.com/template-overviews/coming-soon/)
 
 [Coming Soon](https://startbootstrap.com/template-overviews/coming-soon/) is a simple coming soon theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a background video with a mobile background image fallback.
@@ -69,3 +70,6 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-coming-soon/blob/gh-pages/LICENSE) license.
+=======
+# mass-duster
+>>>>>>> 74830f903287e1bfae535e321aaaf1a6584b3afa
